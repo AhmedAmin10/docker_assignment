@@ -38,4 +38,4 @@ the assignment focaused on how to use the docker container and to get a dataset 
  4- make a visualization in vis.py \
  5-  create and train a machine learning model in model.py \
  6- run the shell script to call all functions from above files one by one \
- 7- save the result of your analysis in service-results directory \
+ 7- save the result of your analysis in service-results directory 
