@@ -1,0 +1,6 @@
+docker cp bd-a1-container:/home/doc-bd-a1/res_dpre.csv "C:/Users/Ahmed/Desktop/BIg Data/Assignment/bd-a1/service-result/"
+docker cp bd-a1-container:/home/doc-bd-a1/eda-in-1.txt "C:/Users/Ahmed/Desktop/BIg Data/Assignment/bd-a1/service-result/"
+docker cp bd-a1-container:/home/doc-bd-a1/eda-in-2.txt "C:/Users/Ahmed/Desktop/BIg Data/Assignment/bd-a1/service-result/"
+docker cp bd-a1-container:/home/doc-bd-a1/eda-in-3.txt "C:/Users/Ahmed/Desktop/BIg Data/Assignment/bd-a1/service-result/"
+docker cp bd-a1-container:/home/doc-bd-a1/vis.png "C:/Users/Ahmed/Desktop/BIg Data/Assignment/bd-a1/service-result/"
+docker cp bd-a1-container:/home/doc-bd-a1/k.txt "C:/Users/Ahmed/Desktop/BIg Data/Assignment/bd-a1/service-result/"

@@ -1,0 +1,6 @@
+Correlation Matrix:
+                              Age    Rating  Recommended IND  Positive Feedback Count
+Age                      1.000000  0.026831         0.030622                 0.043079
+Rating                   0.026831  1.000000         0.792336                -0.064961
+Recommended IND          0.030622  0.792336         1.000000                -0.069045
+Positive Feedback Count  0.043079 -0.064961        -0.069045                 1.000000
