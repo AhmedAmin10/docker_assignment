@@ -1,0 +1,11 @@
+Skewness:
+Age                        0.525615
+Rating                    -1.313529
+Recommended IND           -1.686952
+Positive Feedback Count    6.472998
+
+Kurtosis:
+Age                        -0.111821
+Rating                      0.804136
+Recommended IND             0.845879
+Positive Feedback Count    71.693179
