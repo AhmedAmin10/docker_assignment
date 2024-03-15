@@ -6,9 +6,9 @@
  This is the Image on dockerhub \
   https://hub.docker.com/layers/aamiin/bd-a1-image/latest/images/sha256:f08223d1bed134b59618cf6f51791eddae54e9300d601b380a8de254fad3143b?uuid=6453BE51-5B59-41B3-BDF9-CC3D06956E88 \ 
 
-these are the docker commands  for running a simple python application in a container. \
+these are the docker commands  for running a simple python application in a container. 
   
-Id CommandLine \
+Id CommandLine 
 -- -----------
 1 docker build -t bd-a1-image . \
 2 docker start container \
@@ -31,11 +31,11 @@ Id CommandLine \
 19 docker tag bd-a1-image:latest aamiin/bd-a1-image:latest \
 20 docker push aamiin/bd-a1-image:latest \
 
-the assignment focaused on how to use the docker container and to get a dataset and make a multiple proccess
-1- load the dataset in load.py
-2- make some data preprossesing  using dpre.py
-3- do an EDA in eda.py file 
-4- make a visualization in vis.py 
-5-  create and train a machine learning model in model.py
-6- run the shell script to call all functions from above files one by one
-7- save the result of your analysis in service-results directory
+the assignment focaused on how to use the docker container and to get a dataset and make a multiple proccess \
+1- load the dataset in load.py \
+2- make some data preprossesing  using dpre.py \
+3- do an EDA in eda.py file \
+4- make a visualization in vis.py \
+5-  create and train a machine learning model in model.py \
+6- run the shell script to call all functions from above files one by one \
+7- save the result of your analysis in service-results directory \
