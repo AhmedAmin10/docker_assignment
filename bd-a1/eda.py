@@ -1,6 +1,6 @@
 import sys
 import pandas as pd
-import subprocess as run
+from subprocess import run
 
 # file_path = sys.argv[1]
 
